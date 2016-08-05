@@ -1,0 +1,26 @@
+_repo: Understanding-the-Scriptures_9492
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McConnell, Francis John
+    birthdate: 1871
+    deathdate: 1953
+    gutenberg_agent_id: '3076'
+    url: http://www.gutenberg.org/2009/agents/3076
+    wikipedia: http://en.wikipedia.org/wiki/Francis_John_McConnell
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9492'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Study and teaching'
+- !lcsh 'Bible -- Criticism, interpretation, etc.'
+- !lcc 'BS'
+- GITenberg
+title: Understanding the Scriptures
+url: http://www.gutenberg.org/ebooks/9492
